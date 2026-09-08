@@ -103,7 +103,7 @@
 
 <div align="center">
   <p>👤 <strong>Aluno:</strong> Pedro Henrique Prandwiski Borges — Nº 22</p>
-  <p>🏫 <strong>Instituição:</strong> SENAI</p>
+  <p>🏫 <strong>Instituição:</strong> SENAI - A. Jacob Lafer</p>
   <p>📚 <strong>Curso:</strong> Técnico em Desenvolvimento de Sistemas</p>
   <p>👨‍🏫 <strong>Professores:</strong> Raul Porto Lopes e Denani</p>
 </div>
