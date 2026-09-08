@@ -1,193 +1,145 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=FF6200&text=🏦+IDENTIDADE_VISUAL_ITAU&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🎨+Atividade+de+Identidade+Visual+do+Itaú&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+</div>
 
-# 🟠 Identidade Visual — Itaú
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF6200&center=true&vCenter=true&width=750&lines=📚+Sobre+a+atividade" />
+</div>
 
-### Atividade de Identidade Visual
-
-**Técnico em Desenvolvimento de Sistemas • SENAI**
-
-<br>
-
-<img src="assets/logo-itau.svg" alt="Representação visual da marca Itaú" width="180">
-
-<br><br>
-
-[![SENAI](https://img.shields.io/badge/SENAI-Desenvolvimento%20de%20Sistemas-FF6200?style=for-the-badge)](#)
-[![Identidade Visual](https://img.shields.io/badge/Identidade%20Visual-Itaú-267FE3?style=for-the-badge)](#)
-
+<div align="center">
+  <p>
+    📌 Atividade desenvolvida no <strong>SENAI</strong> para estudar e aplicar os principais elementos de uma <strong>identidade visual</strong>, utilizando o Itaú como referência.
+  </p>
+  <p>
+    🎨 O projeto apresenta <strong>logo, paleta de cores, tipografia, escala tipográfica e contraste</strong>, organizados de forma visual e documentados neste repositório.
+  </p>
 </div>
 
 ---
 
-## 📌 Sobre a atividade
-
-Esta atividade tem como objetivo desenvolver e organizar uma **identidade visual baseada na marca Itaú**, utilizando elementos fundamentais de um sistema visual: logo, cores, tipografia, escala tipográfica e contraste.
-
-O material foi estruturado para apresentar os elementos de forma clara, organizada e consistente, seguindo o padrão de documentação utilizado nas atividades anteriores.
-
-## 🎯 Objetivo
-
-Criar uma representação da identidade visual do Itaú, documentando:
-
-- Logo;
-- Paleta de cores;
-- Tipografia;
-- Escala tipográfica;
-- Combinações de contraste;
-- Variações das cores para diferentes aplicações.
-
----
-
-## 🟠 Logo
-
-A identidade visual utiliza o laranja como elemento de destaque, associado à comunicação visual da marca Itaú.
-
 <div align="center">
-
-<img src="assets/logo-itau.svg" alt="Logo Itaú" width="220">
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF6200&center=true&vCenter=true&width=750&lines=🏦+Identidade+Visual" />
 </div>
 
-> **Observação:** a representação acima é utilizada exclusivamente para fins acadêmicos nesta atividade.
-
----
-
-## 🎨 Cores
-
-A paleta definida para a atividade é composta por cores primárias, secundárias, neutras e cores de estado.
-
-| Categoria | Nome | HEX |
-|:---:|:---|:---:|
-| 🟠 | Primário | `#FF6200` |
-| 🔵 | Secundário | `#267FE3` |
-| ⚫ | Dark | `#262323` |
-| ⚪ | Light | `#F2F5F7` |
-| 🟢 | Success | `#52D65F` |
-| 🔴 | Danger | `#D11C00` |
-| 🟠 | Primário -1 | `#CC4E00` |
-| 🔵 | Secundário -1 | `#539AE9` |
-| ⚪ | Light -1 | `#FFFFFF` |
-| 🔴 | Danger -1 | `#9E1500` |
-| ⚫ | Dark +1 | `#403B3B` |
-| 🟢 | Success +1 | `#7BE085` |
-| ⚫ | Dark -1 | `#0B0A0A` |
-| 🟢 | Success -1 | `#2FC63E` |
-| 🟠 | Primário +1 | `#FF8133` |
-| 🔵 | Secundário +1 | `#1866BE` |
-| ⚪ | Light +1 | `#D3DDE4` |
-| 🔴 | Danger +1 | `#FF2705` |
-
----
-
-## 🔤 Tipografia
-
-A fonte escolhida para a identidade visual é a **Poppins**, uma família tipográfica moderna, legível e adequada para interfaces digitais.
-
 <div align="center">
-
-# Aa
-
-**Poppins**
-
-</div>
-
-### Características
-
-- **Família:** Poppins
-- **Uso:** títulos, subtítulos, parágrafos e elementos de interface;
-- **Estilo:** moderno, geométrico e limpo;
-- **Objetivo:** manter legibilidade e consistência visual.
-
----
-
-## 📐 Escala tipográfica
-
-| Elemento | Tamanho |
-|:---|---:|
-| Small | **14px** |
-| Parágrafo | **16px** |
-| H5 | **18px** |
-| H4 | **24px** |
-| H3 | **28px** |
-| H2 | **34px** |
-| H1 | **40px** |
-
-### Exemplo visual
-
-**H1 — 40px**
-
-## H2 — 34px
-
-### H3 — 28px
-
-#### H4 — 24px
-
-##### H5 — 18px
-
-Parágrafo — 16px
-
-<small>Small — 14px</small>
-
----
-
-## ♿ Contraste
-
-O contraste é utilizado para garantir que textos e elementos permaneçam legíveis sobre diferentes fundos.
-
-### Combinações principais
-
-| Fundo | Texto | HEX |
-|:---|:---|:---|
-| Dark | Light | `#262323` + `#F2F5F7` |
-| Light | Dark | `#F2F5F7` + `#262323` |
-| Primário | Light | `#FF6200` + `#FFFFFF` |
-| Secundário | Light | `#267FE3` + `#FFFFFF` |
-| Light | Secundário | `#F2F5F7` + `#1866BE` |
-
-O uso adequado de contraste contribui para **acessibilidade, hierarquia visual e facilidade de leitura**.
-
----
-
-## 🧩 Sistema visual
-
-A identidade é organizada a partir de três pilares:
-
-**COR** → define destaque, estados e personalidade visual  
-**TIPOGRAFIA** → estabelece hierarquia e legibilidade  
-**CONTRASTE** → garante clareza e acessibilidade
-
-<div align="center">
-
-`#FF6200`  •  `Poppins`  •  `40px → 14px`  •  `Contraste`
-
+  <p>
+    A identidade visual é formada pela combinação de elementos gráficos que ajudam a transmitir a personalidade e o reconhecimento de uma marca.
+  </p>
+  <p>
+    🟠 <strong>Marca:</strong> Itaú<br>
+    🎨 <strong>Cor de destaque:</strong> <code>#FF6200</code><br>
+    🔤 <strong>Tipografia:</strong> Poppins
+  </p>
 </div>
 
 ---
 
-## 👨‍💻 Aluno
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF6200&center=true&vCenter=true&width=750&lines=🎨+Paleta+de+Cores" />
+</div>
 
-**Pedro Henrique Prandwiski Borges**  
-**Nº 22**  
-**Curso:** Técnico em Desenvolvimento de Sistemas — SENAI
-
-### Professores
-
-**Prof. Raul Porto Lopes**  
-**Prof. Denani**
-
----
-
-## 📚 Referência da atividade
-
-**Atividade:** Identidade Visual — Itaú  
-**Instituição:** SENAI
+<div align="center">
+  <table>
+    <tr>
+      <th>Categoria</th>
+      <th>Cor</th>
+      <th>HEX</th>
+    </tr>
+    <tr><td>Primário</td><td>🟧</td><td><code>#FF6200</code></td></tr>
+    <tr><td>Primário +1</td><td>🟧</td><td><code>#FF8133</code></td></tr>
+    <tr><td>Primário -1</td><td>🟧</td><td><code>#CC4E00</code></td></tr>
+    <tr><td>Secundário</td><td>🟦</td><td><code>#267FE3</code></td></tr>
+    <tr><td>Secundário +1</td><td>🟦</td><td><code>#1866BE</code></td></tr>
+    <tr><td>Secundário -1</td><td>🟦</td><td><code>#539AE9</code></td></tr>
+    <tr><td>Dark</td><td>⬛</td><td><code>#262323</code></td></tr>
+    <tr><td>Dark +1</td><td>⬛</td><td><code>#403B3B</code></td></tr>
+    <tr><td>Dark -1</td><td>⬛</td><td><code>#0B0A0A</code></td></tr>
+    <tr><td>Light</td><td>⬜</td><td><code>#F2F5F7</code></td></tr>
+    <tr><td>Light -1</td><td>⬜</td><td><code>#FFFFFF</code></td></tr>
+    <tr><td>Light +1</td><td>⬜</td><td><code>#D3DDE4</code></td></tr>
+    <tr><td>Success</td><td>🟩</td><td><code>#52D65F</code></td></tr>
+    <tr><td>Success +1</td><td>🟩</td><td><code>#7BE085</code></td></tr>
+    <tr><td>Success -1</td><td>🟩</td><td><code>#2FC63E</code></td></tr>
+    <tr><td>Danger</td><td>🟥</td><td><code>#D11C00</code></td></tr>
+    <tr><td>Danger +1</td><td>🟥</td><td><code>#FF2705</code></td></tr>
+    <tr><td>Danger -1</td><td>🟥</td><td><code>#9E1500</code></td></tr>
+  </table>
+</div>
 
 ---
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF6200&center=true&vCenter=true&width=750&lines=🔤+Tipografia" />
+</div>
 
-### 🟠 Identidade Visual — Itaú
+<div align="center">
+  <h1 style="font-family: Poppins;">Poppins</h1>
+  <p style="font-family: Poppins; font-size: 24px;">Aa Bb Cc Dd Ee Ff Gg</p>
+  <p>
+    A tipografia escolhida para a atividade é a <strong>Poppins</strong>, aplicada para manter uma comunicação visual moderna, limpa e consistente.
+  </p>
+</div>
 
-*Projeto desenvolvido para fins acadêmicos.*
+---
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF6200&center=true&vCenter=true&width=750&lines=📐+Escala+Tipográfica" />
+</div>
+
+<div align="center">
+  <p><strong>Small — 14px</strong></p>
+  <p><strong>Parágrafo — 16px</strong></p>
+  <p><strong>H5 — 18px</strong></p>
+  <p><strong>H4 — 24px</strong></p>
+  <p><strong>H3 — 28px</strong></p>
+  <p><strong>H2 — 34px</strong></p>
+  <p><strong>H1 — 40px</strong></p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF6200&center=true&vCenter=true&width=750&lines=⚖️+Contraste" />
+</div>
+
+<div align="center">
+  <p>
+    O contraste entre tamanhos, pesos e cores facilita a <strong>hierarquia visual</strong> e melhora a leitura das informações.
+  </p>
+  <p><strong>H1 — 40px</strong> → Títulos principais</p>
+  <p><strong>H2 — 34px</strong> → Títulos secundários</p>
+  <p><strong>H3 — 28px</strong> → Subtítulos</p>
+  <p><strong>H4 — 24px</strong> → Seções</p>
+  <p><strong>H5 — 18px</strong> → Destaques</p>
+  <p><strong>Parágrafo — 16px</strong> → Conteúdo</p>
+  <p><strong>Small — 14px</strong> → Informações auxiliares</p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF6200&center=true&vCenter=true&width=750&lines=🎯+Objetivo" />
+</div>
+
+<div align="center">
+  <p>
+    📚 Compreender como os elementos de uma identidade visual podem ser organizados para criar uma comunicação <strong>coerente, reconhecível e visualmente consistente</strong>.
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF6200&center=true&vCenter=true&width=750&lines=👨‍💻+Informações+da+Atividade" />
+</div>
+
+<div align="center">
+  <p>👤 <strong>Aluno:</strong> Pedro Henrique Prandwiski Borges — Nº 22</p>
+  <p>🏫 <strong>Instituição:</strong> SENAI</p>
+  <p>📚 <strong>Curso:</strong> Técnico em Desenvolvimento de Sistemas</p>
+  <p>👨‍🏫 <strong>Professores:</strong> Raul Porto Lopes e Denani</p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=FF6200&animation=fadeIn" width="100%" />
 </div>
