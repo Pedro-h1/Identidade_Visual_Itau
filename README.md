@@ -9,6 +9,17 @@
 <div align="center">
   <p>📌 Atividade desenvolvida no <strong>SENAI</strong> para estudar e aplicar os principais elementos de uma <strong>identidade visual</strong>, utilizando o Itaú como referência.</p>
   <p>🎨 O projeto apresenta <strong>logo, paleta de cores, tipografia, escala tipográfica e contraste</strong>, organizados de forma visual e documentados neste repositório.</p>
+  <p>🎯 <strong>Atividade no Figma:</strong> <a href="https://www.figma.com/design/DD5aVlVs5scQ8TYq1YfDnm/Identidade-Visual-Ita%C3%BA?node-id=0-1&t=HT2bYyD8z2kcZYWQ-1">Acessar o projeto no Figma</a></p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF8133&center=true&vCenter=true&width=750&lines=🎯+Objetivo" />
+</div>
+
+<div align="center">
+  <p>📚 Compreender como os elementos de uma identidade visual podem ser organizados para criar uma comunicação <strong>coerente, reconhecível e visualmente consistente</strong>.</p>
 </div>
 
 ---
@@ -83,16 +94,6 @@
 <div align="center">
   <p>O contraste entre tamanhos, pesos e cores facilita a <strong>hierarquia visual</strong> e melhora a leitura das informações.</p>
   <p><strong>H1 — 40px</strong> → Títulos principais</p><p><strong>H2 — 34px</strong> → Títulos secundários</p><p><strong>H3 — 28px</strong> → Subtítulos</p><p><strong>H4 — 24px</strong> → Seções</p><p><strong>H5 — 18px</strong> → Destaques</p><p><strong>Parágrafo — 16px</strong> → Conteúdo</p><p><strong>Small — 14px</strong> → Informações auxiliares</p>
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF8133&center=true&vCenter=true&width=750&lines=🎯+Objetivo" />
-</div>
-
-<div align="center">
-  <p>📚 Compreender como os elementos de uma identidade visual podem ser organizados para criar uma comunicação <strong>coerente, reconhecível e visualmente consistente</strong>.</p>
 </div>
 
 ---
