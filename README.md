@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=FF8133&text=🏦+IDENTIDADE_VISUAL_ITAU&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🎨+Atividade+de+Identidade+Visual+do+Itaú&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=FF8133&text=🏦+IDENTIDADE+VISUAL+—+ITAU&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🎨+Atividade+de+Identidade+Visual+do+Itaú&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
