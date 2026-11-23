@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FF8133,100:CC5F1F&text=🏦+IDENTIDADE+VISUAL+—+ITAU&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🎨+Atividade+de+Identidade+Visual+do+Itaú&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FF8133,100:B6530C&text=🏦+IDENTIDADE+VISUAL+—+ITAU&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🎨+Atividade+de+Identidade+Visual+do+Itaú&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF8133&center=true&vCenter=true&width=750&lines=📚+Sobre+a+atividade" />
@@ -37,120 +37,120 @@
 </div>
 <div align="center">
     <table>
-    <tr>
-    <th>Categoria</th>
-    <th>Cor</th>
-    <th>HEX</th>
-    </tr>
-    <tr>
-    <td><strong>Primário +1</strong>
-    </td>
-    <td>🟧</td>
-    <td><strong><code>#FF8133</code></strong>
-    </td>
-    </tr>
-    <tr>
-    <td>Primário</td>
-    <td>🟧</td>
-    <td><code>#FF6200</code>
-    </td>
-    </tr>
-    <tr>
-    <td>Primário -1</td>
-    <td>🟧</td>
-    <td><code>#CC4E00</code>
-    </td>
-    </tr>
-    <tr>
-    <td>Secundário</td>
-    <td>🟦</td>
-    <td><code>#267FE3</code>
-    </td>
-    </tr>
-    <tr>
-    <td>Secundário +1</td>
-    <td>🟦</td>
-    <td><code>#1866BE</code>
-    </td>
-    </tr>
-    <tr>
-    <td>Secundário -1</td>
-    <td>🟦</td>
-    <td><code>#539AE9</code>
-    </td>
-    </tr>
-    <tr>
-    <td>Dark</td>
-    <td>⬛</td>
-    <td><code>#262323</code>
-    </td>
-    </tr>
-    <tr>
-    <td>Dark +1</td>
-    <td>⬛</td>
-    <td><code>#403B3B</code>
-    </td>
-    </tr>
-    <tr>
-    <td>Dark -1</td>
-    <td>⬛</td>
-    <td><code>#0B0A0A</code>
-    </td>
-    </tr>
-    <tr>
-    <td>Light</td>
-    <td>⬜</td>
-    <td><code>#F2F5F7</code>
-    </td>
-    </tr>
-    <tr>
-    <td>Light -1</td>
-    <td>⬜</td>
-    <td><code>#FFFFFF</code>
-    </td>
-    </tr>
-    <tr>
-    <td>Light +1</td>
-    <td>⬜</td>
-    <td><code>#D3DDE4</code>
-    </td>
-    </tr>
-    <tr>
-    <td>Success</td>
-    <td>🟩</td>
-    <td><code>#52D65F</code>
-    </td>
-    </tr>
-    <tr>
-    <td>Success +1</td>
-    <td>🟩</td>
-    <td><code>#7BE085</code>
-    </td>
-    </tr>
-    <tr>
-    <td>Success -1</td>
-    <td>🟩</td>
-    <td><code>#2FC63E</code>
-    </td>
-    </tr>
-    <tr>
-    <td>Danger</td>
-    <td>🟥</td>
-    <td><code>#D11C00</code>
-    </td>
-    </tr>
-    <tr>
-    <td>Danger +1</td>
-    <td>🟥</td>
-    <td><code>#FF2705</code>
-    </td>
-    </tr>
-    <tr>
-    <td>Danger -1</td>
-    <td>🟥</td>
-    <td><code>#9E1500</code>
-    </td>
-    </tr>
+        <tr>
+            <th>Categoria</th>
+            <th>Cor</th>
+            <th>HEX</th>
+        </tr>
+        <tr>
+            <td><strong>Primário +1</strong>
+            </td>
+            <td>🟧</td>
+            <td><strong><code>#FF8133</code></strong>
+            </td>
+        </tr>
+        <tr>
+            <td>Primário</td>
+            <td>🟧</td>
+            <td><code>#FF6200</code>
+            </td>
+        </tr>
+        <tr>
+            <td>Primário -1</td>
+            <td>🟧</td>
+            <td><code>#CC4E00</code>
+            </td>
+        </tr>
+        <tr>
+            <td>Secundário</td>
+            <td>🟦</td>
+            <td><code>#267FE3</code>
+            </td>
+        </tr>
+        <tr>
+            <td>Secundário +1</td>
+            <td>🟦</td>
+            <td><code>#1866BE</code>
+            </td>
+        </tr>
+        <tr>
+            <td>Secundário -1</td>
+            <td>🟦</td>
+            <td><code>#539AE9</code>
+            </td>
+        </tr>
+        <tr>
+            <td>Dark</td>
+            <td>⬛</td>
+            <td><code>#262323</code>
+            </td>
+        </tr>
+        <tr>
+            <td>Dark +1</td>
+            <td>⬛</td>
+            <td><code>#403B3B</code>
+            </td>
+        </tr>
+        <tr>
+            <td>Dark -1</td>
+            <td>⬛</td>
+            <td><code>#0B0A0A</code>
+            </td>
+        </tr>
+        <tr>
+            <td>Light</td>
+            <td>⬜</td>
+            <td><code>#F2F5F7</code>
+            </td>
+        </tr>
+        <tr>
+            <td>Light -1</td>
+            <td>⬜</td>
+            <td><code>#FFFFFF</code>
+            </td>
+        </tr>
+        <tr>
+            <td>Light +1</td>
+            <td>⬜</td>
+            <td><code>#D3DDE4</code>
+            </td>
+        </tr>
+        <tr>
+            <td>Success</td>
+            <td>🟩</td>
+            <td><code>#52D65F</code>
+            </td>
+        </tr>
+        <tr>
+            <td>Success +1</td>
+            <td>🟩</td>
+            <td><code>#7BE085</code>
+            </td>
+        </tr>
+        <tr>
+            <td>Success -1</td>
+            <td>🟩</td>
+            <td><code>#2FC63E</code>
+            </td>
+        </tr>
+        <tr>
+            <td>Danger</td>
+            <td>🟥</td>
+            <td><code>#D11C00</code>
+            </td>
+        </tr>
+        <tr>
+            <td>Danger +1</td>
+            <td>🟥</td>
+            <td><code>#FF2705</code>
+            </td>
+        </tr>
+        <tr>
+            <td>Danger -1</td>
+            <td>🟥</td>
+            <td><code>#9E1500</code>
+            </td>
+        </tr>
     </table>
 </div>
 
@@ -215,5 +215,5 @@
     <p>👨‍🏫 <strong>Professores:</strong> Raul Porto Lopes e Denani</p>
 </div>
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:CC5F1F,100:FF8133&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:B6530C,100:FF8133&animation=fadeIn" width="100%" />
 </div>
