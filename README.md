@@ -1,11 +1,11 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FF8133,100:B6530C&text=🏦+IDENTIDADE+VISUAL+—+ITAU&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🎨+Atividade+de+Identidade+Visual+do+Itaú&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4B2414,100:FF8133&text=🏦+IDENTIDADE+VISUAL+—+ITAU&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🎨+Atividade+de+Identidade+Visual+do+Itaú&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF8133&center=true&vCenter=true&width=750&lines=📚+Sobre+a+atividade" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF8133&center=true&vCenter=true&width=750&lines=%F0%9F%93%9A+Sobre+a+atividade" />
 </div>
 <div align="center">
-    <p>📌 Atividade desenvolvida no <strong>SENAI</strong> para estudar e aplicar os principais elementos de uma <strong>identidade visual</strong>, utilizando o Itaú como referência.</p>
+    <p>Atividade desenvolvida no <strong>SENAI</strong> para estudar e aplicar os principais elementos de uma <strong>identidade visual</strong>, utilizando o Itaú como referência.</p>
     <p>🎨 O projeto apresenta <strong>logo, paleta de cores, tipografia, escala tipográfica e contraste</strong>, organizados de forma visual e documentados neste repositório.</p>
     <p>🎯 <strong>Atividade no Figma:</strong> <a href="https://www.figma.com/design/DD5aVlVs5scQ8TYq1YfDnm/Identidade-Visual-Ita%C3%BA?node-id=0-1&t=HT2bYyD8z2kcZYWQ-1">Acessar o projeto no Figma</a>
     </p>
@@ -14,7 +14,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF8133&center=true&vCenter=true&width=750&lines=🎯+Objetivo" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF8133&center=true&vCenter=true&width=750&lines=%F0%9F%8E%AF+Objetivo" />
 </div>
 <div align="center">
     <p>📚 Compreender como os elementos de uma identidade visual podem ser organizados para criar uma comunicação <strong>coerente, reconhecível e visualmente consistente</strong>.</p>
@@ -23,7 +23,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF8133&center=true&vCenter=true&width=750&lines=🏦+Identidade+Visual" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF8133&center=true&vCenter=true&width=750&lines=%F0%9F%8F%A6+Identidade+Visual" />
 </div>
 <div align="center">
     <p>A identidade visual é formada pela combinação de elementos gráficos que ajudam a transmitir a personalidade e o reconhecimento de uma marca.</p>
@@ -33,131 +33,131 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF8133&center=true&vCenter=true&width=750&lines=🎨+Paleta+de+Cores" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF8133&center=true&vCenter=true&width=750&lines=%F0%9F%8E%A8+Paleta+de+Cores" />
 </div>
 <div align="center">
     <table>
-        <tr>
-            <th>Categoria</th>
-            <th>Cor</th>
-            <th>HEX</th>
-        </tr>
-        <tr>
-            <td><strong>Primário +1</strong>
-            </td>
-            <td>🟧</td>
-            <td><strong><code>#FF8133</code></strong>
-            </td>
-        </tr>
-        <tr>
-            <td>Primário</td>
-            <td>🟧</td>
-            <td><code>#FF6200</code>
-            </td>
-        </tr>
-        <tr>
-            <td>Primário -1</td>
-            <td>🟧</td>
-            <td><code>#CC4E00</code>
-            </td>
-        </tr>
-        <tr>
-            <td>Secundário</td>
-            <td>🟦</td>
-            <td><code>#267FE3</code>
-            </td>
-        </tr>
-        <tr>
-            <td>Secundário +1</td>
-            <td>🟦</td>
-            <td><code>#1866BE</code>
-            </td>
-        </tr>
-        <tr>
-            <td>Secundário -1</td>
-            <td>🟦</td>
-            <td><code>#539AE9</code>
-            </td>
-        </tr>
-        <tr>
-            <td>Dark</td>
-            <td>⬛</td>
-            <td><code>#262323</code>
-            </td>
-        </tr>
-        <tr>
-            <td>Dark +1</td>
-            <td>⬛</td>
-            <td><code>#403B3B</code>
-            </td>
-        </tr>
-        <tr>
-            <td>Dark -1</td>
-            <td>⬛</td>
-            <td><code>#0B0A0A</code>
-            </td>
-        </tr>
-        <tr>
-            <td>Light</td>
-            <td>⬜</td>
-            <td><code>#F2F5F7</code>
-            </td>
-        </tr>
-        <tr>
-            <td>Light -1</td>
-            <td>⬜</td>
-            <td><code>#FFFFFF</code>
-            </td>
-        </tr>
-        <tr>
-            <td>Light +1</td>
-            <td>⬜</td>
-            <td><code>#D3DDE4</code>
-            </td>
-        </tr>
-        <tr>
-            <td>Success</td>
-            <td>🟩</td>
-            <td><code>#52D65F</code>
-            </td>
-        </tr>
-        <tr>
-            <td>Success +1</td>
-            <td>🟩</td>
-            <td><code>#7BE085</code>
-            </td>
-        </tr>
-        <tr>
-            <td>Success -1</td>
-            <td>🟩</td>
-            <td><code>#2FC63E</code>
-            </td>
-        </tr>
-        <tr>
-            <td>Danger</td>
-            <td>🟥</td>
-            <td><code>#D11C00</code>
-            </td>
-        </tr>
-        <tr>
-            <td>Danger +1</td>
-            <td>🟥</td>
-            <td><code>#FF2705</code>
-            </td>
-        </tr>
-        <tr>
-            <td>Danger -1</td>
-            <td>🟥</td>
-            <td><code>#9E1500</code>
-            </td>
-        </tr>
+    <tr>
+    <th>Categoria</th>
+    <th>Cor</th>
+    <th>HEX</th>
+    </tr>
+    <tr>
+    <td><strong>Primário +1</strong>
+    </td>
+    <td>🟧</td>
+    <td><strong><code>#FF8133</code></strong>
+    </td>
+    </tr>
+    <tr>
+    <td>Primário</td>
+    <td>🟧</td>
+    <td><code>#FF6200</code>
+    </td>
+    </tr>
+    <tr>
+    <td>Primário -1</td>
+    <td>🟧</td>
+    <td><code>#CC4E00</code>
+    </td>
+    </tr>
+    <tr>
+    <td>Secundário</td>
+    <td>🟦</td>
+    <td><code>#267FE3</code>
+    </td>
+    </tr>
+    <tr>
+    <td>Secundário +1</td>
+    <td>🟦</td>
+    <td><code>#1866BE</code>
+    </td>
+    </tr>
+    <tr>
+    <td>Secundário -1</td>
+    <td>🟦</td>
+    <td><code>#539AE9</code>
+    </td>
+    </tr>
+    <tr>
+    <td>Dark</td>
+    <td>⬛</td>
+    <td><code>#262323</code>
+    </td>
+    </tr>
+    <tr>
+    <td>Dark +1</td>
+    <td>⬛</td>
+    <td><code>#403B3B</code>
+    </td>
+    </tr>
+    <tr>
+    <td>Dark -1</td>
+    <td>⬛</td>
+    <td><code>#0B0A0A</code>
+    </td>
+    </tr>
+    <tr>
+    <td>Light</td>
+    <td>⬜</td>
+    <td><code>#F2F5F7</code>
+    </td>
+    </tr>
+    <tr>
+    <td>Light -1</td>
+    <td>⬜</td>
+    <td><code>#FFFFFF</code>
+    </td>
+    </tr>
+    <tr>
+    <td>Light +1</td>
+    <td>⬜</td>
+    <td><code>#D3DDE4</code>
+    </td>
+    </tr>
+    <tr>
+    <td>Success</td>
+    <td>🟩</td>
+    <td><code>#52D65F</code>
+    </td>
+    </tr>
+    <tr>
+    <td>Success +1</td>
+    <td>🟩</td>
+    <td><code>#7BE085</code>
+    </td>
+    </tr>
+    <tr>
+    <td>Success -1</td>
+    <td>🟩</td>
+    <td><code>#2FC63E</code>
+    </td>
+    </tr>
+    <tr>
+    <td>Danger</td>
+    <td>🟥</td>
+    <td><code>#D11C00</code>
+    </td>
+    </tr>
+    <tr>
+    <td>Danger +1</td>
+    <td>🟥</td>
+    <td><code>#FF2705</code>
+    </td>
+    </tr>
+    <tr>
+    <td>Danger -1</td>
+    <td>🟥</td>
+    <td><code>#9E1500</code>
+    </td>
+    </tr>
     </table>
 </div>
 
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF8133&center=true&vCenter=true&width=750&lines=🔤+Tipografia" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF8133&center=true&vCenter=true&width=750&lines=%F0%9F%94%A4+Tipografia" />
 </div>
 <div align="center">
     <h1>Poppins</h1>
@@ -168,7 +168,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF8133&center=true&vCenter=true&width=750&lines=📐+Escala+Tipográfica" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF8133&center=true&vCenter=true&width=750&lines=%F0%9F%93%90+Escala+Tipogr%C3%A1fica" />
 </div>
 <div align="center">
     <p><strong>Small — 14px</strong>
@@ -190,7 +190,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF8133&center=true&vCenter=true&width=750&lines=⚖️+Contraste" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF8133&center=true&vCenter=true&width=750&lines=%E2%9A%96%EF%B8%8F+Contraste" />
 </div>
 <div align="center">
     <p>O contraste entre tamanhos, pesos e cores facilita a <strong>hierarquia visual</strong> e melhora a leitura das informações.</p>
@@ -206,7 +206,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF8133&center=true&vCenter=true&width=750&lines=👨‍💻+Informações+da+Atividade" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=FF8133&center=true&vCenter=true&width=750&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Informa%C3%A7%C3%B5es+da+Atividade" />
 </div>
 <div align="center">
     <p>👤 <strong>Aluno:</strong> Pedro Henrique Prandwiski Borges — Nº 22</p>
@@ -215,5 +215,5 @@
     <p>👨‍🏫 <strong>Professores:</strong> Raul Porto Lopes e Denani</p>
 </div>
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:B6530C,100:FF8133&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF8133,100:4B2414&animation=fadeIn" width="100%" />
 </div>
